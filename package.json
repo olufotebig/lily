@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Fullstack developer interview prep",
   "scripts": {
+    "start": "browser-sync start --server --index src/index.html --files src",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
